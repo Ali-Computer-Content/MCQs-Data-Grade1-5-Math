@@ -1,0 +1,100 @@
+1::What is 125 + 378?::493::503::513::523::B::125 + 378 = 503.
+2::What is 850 - 475?::365::375::385::395::B::850 - 475 = 375.
+3::What is 24 × 5?::100::110::120::130::C::24 × 5 = 120.
+4::What is 144 ÷ 12?::10::11::12::13::C::144 ÷ 12 = 12.
+5::Which fraction is equivalent to 1/2?::2/3::3/6::4/10::5/12::B::3/6 simplifies to 1/2.
+6::What is 3/4 + 1/4?::1/2::1::5/4::3/4::B::3/4 + 1/4 = 1.
+7::What is 5/8 - 2/8?::1/8::2/8::3/8::4/8::C::Subtract numerators when denominators are equal.
+8::Convert 0.5 to a fraction.::1/2::1/3::2/3::5/10::A::0.5 = 1/2.
+9::What is 0.25 + 0.50?::0.65::0.70::0.75::0.80::C::0.25 + 0.50 = 0.75.
+10::Round 4,678 to the nearest hundred.::4600::4700::4800::4900::B::The tens digit is 7, so round up.
+11::What is the value of 6 in 46,281?::6::60::600::6000::D::The 6 is in the thousands place.
+12::What is 15% of 200?::20::25::30::35::C::15% × 200 = 30.
+13::What is 1/5 of 100?::15::20::25::30::B::100 ÷ 5 = 20.
+14::A rectangle is 8 cm long and 6 cm wide. What is its area?::42::46::48::52::C::Area = length × width.
+15::What is the perimeter of a rectangle with length 10 cm and width 4 cm?::24 cm::28 cm::30 cm::40 cm::B::Perimeter = 2 × (10 + 4).
+16::How many degrees are in a right angle?::45::90::180::360::B::A right angle measures 90°.
+17::Which angle is greater than 90° but less than 180°?::Acute::Right::Obtuse::Straight::C::An obtuse angle is between 90° and 180°.
+18::What is 9²?::18::27::81::72::C::9 × 9 = 81.
+19::What is the square root of 64?::6::7::8::9::C::8 × 8 = 64.
+20::Which number is prime?::21::27::29::33::C::29 has only two factors.
+21::Find the LCM of 4 and 6.::10::12::18::24::B::12 is the smallest common multiple.
+22::Find the GCF of 18 and 24.::4::5::6::8::C::6 is the greatest common factor.
+23::What is 7 × 8?::54::56::58::64::B::7 × 8 = 56.
+24::What is 96 ÷ 8?::10::11::12::13::C::96 ÷ 8 = 12.
+25::Convert 3 meters to centimeters.::30::300::3000::30000::B::1 meter = 100 cm.
+26::How many millimeters are in 5 centimeters?::5::50::500::5000::B::1 cm = 10 mm.
+27::What is 2.4 + 1.6?::3.0::3.5::4.0::4.5::C::2.4 + 1.6 = 4.0.
+28::What is 7.2 - 3.8?::3.2::3.4::3.6::3.8::B::7.2 - 3.8 = 3.4.
+29::What is 0.6 × 10?::0.06::0.6::6::60::C::Multiplying by 10 moves the decimal one place right.
+30::What is 45 ÷ 100?::0.045::0.45::4.5::45::B::45 ÷ 100 = 0.45.
+31::A triangle has angles of 60°, 60°, and 60°. What type is it?::Scalene::Right::Equilateral::Obtuse::C::All angles are equal.
+32::How many sides does a hexagon have?::5::6::7::8::B::A hexagon has 6 sides.
+33::What is 13 × 7?::81::91::101::111::B::13 × 7 = 91.
+34::What is 144 ÷ 9?::14::15::16::17::C::144 ÷ 9 = 16.
+35::What is 2/3 + 1/6?::3/6::4/6::5/6::6/6::C::2/3 = 4/6, so total is 5/6.
+36::What is 7/10 as a decimal?::0.07::0.7::7.0::70::B::7/10 = 0.7.
+37::What is 3.5 + 2.5?::5::5.5::6::6.5::C::3.5 + 2.5 = 6.
+38::What is 12% of 50?::5::6::7::8::B::0.12 × 50 = 6.
+39::What is the area of a square with side length 9 cm?::18::36::72::81::D::Area = 9 × 9.
+40::What is the perimeter of a square with side length 7 cm?::21::28::35::49::B::Perimeter = 4 × 7.
+41::What is 5³?::15::25::125::625::C::5 × 5 × 5 = 125.
+42::Which fraction is largest?::1/2::3/4::2/3::5/8::B::3/4 = 0.75.
+43::Convert 0.8 to a fraction.::8/10::4/5::2/5::Both A and B::D::8/10 simplifies to 4/5.
+44::What is 84 ÷ 7?::10::11::12::13::C::84 ÷ 7 = 12.
+45::What is 17 × 6?::92::102::112::122::B::17 × 6 = 102.
+46::What is 9.8 - 4.3?::5.3::5.4::5.5::5.6::C::9.8 - 4.3 = 5.5.
+47::How many minutes are in 2.5 hours?::120::130::140::150::D::2.5 × 60 = 150.
+48::What is the sum of the angles in a triangle?::90°::180°::270°::360°::B::Triangle angles sum to 180°.
+49::What is the sum of the angles in a quadrilateral?::180°::270°::360°::540°::C::Quadrilateral angles sum to 360°.
+50::What is 25% of 80?::10::15::20::25::C::25% = 1/4, and 1/4 of 80 is 20.
+51::What is 625 ÷ 25?::15::20::25::30::C::625 ÷ 25 = 25.
+52::What is 48 × 2?::86::94::96::98::C::48 × 2 = 96.
+53::What is 1.25 + 2.75?::3.5::4.0::4.5::5.0::B::1.25 + 2.75 = 4.0.
+54::What is 1000 - 456?::534::544::554::564::B::1000 - 456 = 544.
+55::What is the value of 3³?::9::18::27::81::C::3 × 3 × 3 = 27.
+56::What is 4/5 of 50?::30::35::40::45::C::4/5 × 50 = 40.
+57::Which number is divisible by 3?::22::25::27::29::C::2+7=9, divisible by 3.
+58::What is 18 × 4?::68::70::72::74::C::18 × 4 = 72.
+59::What is 90 ÷ 15?::5::6::7::8::B::90 ÷ 15 = 6.
+60::What is 2.2 + 3.3?::5.4::5.5::5.6::5.7::B::2.2 + 3.3 = 5.5.
+61::What is 7/8 - 3/8?::2/8::3/8::4/8::5/8::C::7/8 - 3/8 = 4/8 = 1/2.
+62::Convert 2 km to meters.::20::200::2000::20000::C::1 km = 1000 m.
+63::What is 11 × 11?::111::121::131::141::B::11 × 11 = 121.
+64::What is the area of a rectangle 12 cm by 5 cm?::50::55::60::65::C::12 × 5 = 60.
+65::What is 1/4 of 200?::25::50::75::100::B::200 ÷ 4 = 50.
+66::What is 6²?::12::18::36::72::C::6 × 6 = 36.
+67::What is 5.6 - 2.1?::3.3::3.4::3.5::3.6::C::5.6 - 2.1 = 3.5.
+68::Which number is composite?::13::17::19::21::D::21 = 3 × 7.
+69::What is 14 × 8?::102::112::122::132::B::14 × 8 = 112.
+70::What is 96 ÷ 6?::14::15::16::17::C::96 ÷ 6 = 16.
+71::What is 40% of 50?::15::20::25::30::B::0.40 × 50 = 20.
+72::Convert 3/10 to a decimal.::0.03::0.3::3.0::30::B::3/10 = 0.3.
+73::What is the perimeter of a triangle with sides 5, 6, and 7 cm?::16::17::18::19::C::5 + 6 + 7 = 18.
+74::What is 13 + 29?::40::41::42::43::C::13 + 29 = 42.
+75::What is 85 - 39?::44::45::46::47::C::85 - 39 = 46.
+76::What is 7 × 12?::72::84::96::108::B::7 × 12 = 84.
+77::What is 121 ÷ 11?::10::11::12::13::B::121 ÷ 11 = 11.
+78::What is 2/5 + 1/5?::2/5::3/5::4/5::5/5::B::Add numerators.
+79::What is 3.2 × 10?::3.2::32::320::0.32::B::Move decimal one place right.
+80::What is 900 ÷ 100?::9::90::900::9000::A::900 ÷ 100 = 9.
+81::What is the value of 2 in 12,345?::2::20::200::2000::D::The 2 is in the thousands place.
+82::Which angle measures less than 90°?::Right::Obtuse::Acute::Straight::C::Acute angles are less than 90°.
+83::What is 16 × 5?::70::75::80::85::C::16 × 5 = 80.
+84::What is 72 ÷ 9?::6::7::8::9::C::72 ÷ 9 = 8.
+85::What is 50% of 120?::50::60::70::80::B::Half of 120 is 60.
+86::Convert 1/4 to a decimal.::0.2::0.25::0.4::0.5::B::1/4 = 0.25.
+87::What is 7²?::14::21::49::56::C::7 × 7 = 49.
+88::What is the area of a triangle with base 10 cm and height 4 cm?::20::30::40::50::A::Area = 1/2 × base × height.
+89::What is 3/4 of 80?::40::50::60::70::C::80 × 3/4 = 60.
+90::What is 18% of 100?::16::17::18::19::C::18% of 100 = 18.
+91::What is 1.5 + 2.5?::3::3.5::4::4.5::C::1.5 + 2.5 = 4.
+92::What is 6.7 - 1.2?::5.3::5.4::5.5::5.6::C::6.7 - 1.2 = 5.5.
+93::How many faces does a cube have?::4::5::6::8::C::A cube has 6 faces.
+94::What is 8 × 15?::100::110::120::130::C::8 × 15 = 120.
+95::What is 225 ÷ 15?::12::13::14::15::D::225 ÷ 15 = 15.
+96::What is 2/8 simplified?::1/2::1/3::1/4::2/4::C::2/8 simplifies to 1/4.
+97::What is 75% of 40?::20::25::30::35::C::0.75 × 40 = 30.
+98::What is 4.5 + 1.5?::5::5.5::6::6.5::C::4.5 + 1.5 = 6.
+99::What is the volume of a cube with side length 3 cm?::9::18::27::36::C::Volume = 3 × 3 × 3 = 27.
+100::What is 1000 ÷ 25?::20::30::40::50::C::1000 ÷ 25 = 40.

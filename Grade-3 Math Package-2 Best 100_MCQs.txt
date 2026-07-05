@@ -1,0 +1,100 @@
+1::What is 11 + 7?::17::18::19::20::B::Adding 7 gives 18.
+2::What is 22 - 5?::16::17::18::19::B::22 - 5 = 17.
+3::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+4::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+5::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+6::What is 16 + 7?::22::23::24::25::B::Adding 7 gives 23.
+7::What is 27 - 5?::21::22::23::24::B::27 - 5 = 22.
+8::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+9::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+10::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+11::What is 21 + 7?::27::28::29::30::B::Adding 7 gives 28.
+12::What is 32 - 5?::26::27::28::29::B::32 - 5 = 27.
+13::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+14::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+15::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+16::What is 26 + 7?::32::33::34::35::B::Adding 7 gives 33.
+17::What is 37 - 5?::31::32::33::34::B::37 - 5 = 32.
+18::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+19::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+20::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+21::What is 31 + 7?::37::38::39::40::B::Adding 7 gives 38.
+22::What is 42 - 5?::36::37::38::39::B::42 - 5 = 37.
+23::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+24::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+25::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+26::What is 36 + 7?::42::43::44::45::B::Adding 7 gives 43.
+27::What is 47 - 5?::41::42::43::44::B::47 - 5 = 42.
+28::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+29::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+30::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+31::What is 41 + 7?::47::48::49::50::B::Adding 7 gives 48.
+32::What is 52 - 5?::46::47::48::49::B::52 - 5 = 47.
+33::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+34::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+35::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+36::What is 46 + 7?::52::53::54::55::B::Adding 7 gives 53.
+37::What is 57 - 5?::51::52::53::54::B::57 - 5 = 52.
+38::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+39::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+40::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+41::What is 51 + 7?::57::58::59::60::B::Adding 7 gives 58.
+42::What is 62 - 5?::56::57::58::59::B::62 - 5 = 57.
+43::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+44::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+45::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+46::What is 56 + 7?::62::63::64::65::B::Adding 7 gives 63.
+47::What is 67 - 5?::61::62::63::64::B::67 - 5 = 62.
+48::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+49::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+50::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+51::What is 61 + 7?::67::68::69::70::B::Adding 7 gives 68.
+52::What is 72 - 5?::66::67::68::69::B::72 - 5 = 67.
+53::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+54::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+55::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+56::What is 66 + 7?::72::73::74::75::B::Adding 7 gives 73.
+57::What is 77 - 5?::71::72::73::74::B::77 - 5 = 72.
+58::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+59::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+60::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+61::What is 71 + 7?::77::78::79::80::B::Adding 7 gives 78.
+62::What is 82 - 5?::76::77::78::79::B::82 - 5 = 77.
+63::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+64::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+65::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+66::What is 76 + 7?::82::83::84::85::B::Adding 7 gives 83.
+67::What is 87 - 5?::81::82::83::84::B::87 - 5 = 82.
+68::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+69::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+70::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+71::What is 81 + 7?::87::88::89::90::B::Adding 7 gives 88.
+72::What is 92 - 5?::86::87::88::89::B::92 - 5 = 87.
+73::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+74::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+75::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+76::What is 86 + 7?::92::93::94::95::B::Adding 7 gives 93.
+77::What is 97 - 5?::91::92::93::94::B::97 - 5 = 92.
+78::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+79::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+80::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+81::What is 91 + 7?::97::98::99::100::B::Adding 7 gives 98.
+82::What is 102 - 5?::96::97::98::99::B::102 - 5 = 97.
+83::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+84::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+85::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+86::What is 96 + 7?::102::103::104::105::B::Adding 7 gives 103.
+87::What is 107 - 5?::101::102::103::104::B::107 - 5 = 102.
+88::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+89::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+90::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+91::What is 101 + 7?::107::108::109::110::B::Adding 7 gives 108.
+92::What is 112 - 5?::106::107::108::109::B::112 - 5 = 107.
+93::What is 6 × 4?::20::24::28::32::B::6 × 4 = 24.
+94::What is 12 ÷ 2?::5::6::7::8::B::12 ÷ 2 = 6.
+95::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.
+96::What is 106 + 7?::112::113::114::115::B::Adding 7 gives 113.
+97::What is 117 - 5?::111::112::113::114::B::117 - 5 = 112.
+98::What is 11 × 4?::40::44::48::52::B::11 × 4 = 44.
+99::What is 22 ÷ 2?::10::11::12::13::B::22 ÷ 2 = 11.
+100::How many sides does a rectangle have?::3::4::5::6::B::A rectangle has 4 sides.

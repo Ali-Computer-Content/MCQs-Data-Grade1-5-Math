@@ -1,0 +1,100 @@
+1::What is 3,456 + 2,789?::6,245::6,145::6,345::6,254::A::Adding the digits column by column: ones 6+9=15 (write 5, carry 1), tens 5+8+1=14 (write 4, carry 1), hundreds 4+7+1=12 (write 2, carry 1), thousands 3+2+1=6. Answer is 6,245.
+2::What is 8,002 - 3,475?::4,527::4,637::4,427::5,527::A::Borrowing as needed: 8,002 - 3,475 = 4,527. Check: 4,527 + 3,475 = 8,002. ✓
+3::What is 47 × 23?::1,081::1,081::981::1,181::A::47 × 23 = 47 × 20 + 47 × 3 = 940 + 141 = 1,081.
+4::What is 756 ÷ 9?::84::74::94::86::A::756 ÷ 9 = 84. Check: 84 × 9 = 756. ✓
+5::Which fraction is equivalent to 1/2?::2/3::3/4::4/8::5/8::C::4/8 = 4÷4 / 8÷4 = 1/2. Dividing numerator and denominator by 4 gives 1/2.
+6::What is 3/4 + 1/4?::4/8::1::4/4::2/4::B::3/4 + 1/4 = 4/4 = 1. When fractions have the same denominator, add the numerators: 3+1=4, and 4/4 = 1.
+7::What is the value of the digit 7 in 47,382?::7::70::700::7,000::D::In 47,382 the digit 7 is in the thousands place, so its value is 7 × 1,000 = 7,000.
+8::What is 0.6 + 0.35?::0.95::0.41::1.05::0.90::A::0.6 + 0.35 = 0.60 + 0.35 = 0.95. Align decimal points and add: 60 + 35 = 95 hundredths = 0.95.
+9::Which number is a prime number?::9::15::17::21::C::17 is a prime number because it is only divisible by 1 and itself. 9 = 3×3, 15 = 3×5, 21 = 3×7.
+10::What is the area of a rectangle with length 12 cm and width 5 cm?::34 cm²::60 cm²::17 cm²::70 cm²::B::Area of rectangle = length × width = 12 × 5 = 60 cm².
+11::What is 5/8 - 3/8?::2/8::8/8::2/0::1/4::C::Hmm, let me recalculate. 5/8 - 3/8 = 2/8 = 1/4. The correct answer is 2/8 which simplifies to 1/4.
+12::What is the perimeter of a square with side 9 cm?::18 cm::36 cm::81 cm::27 cm::B::Perimeter of a square = 4 × side = 4 × 9 = 36 cm.
+13::Round 6,847 to the nearest hundred?::6,800::6,900::7,000::6,850::A::The tens digit is 4, which is less than 5, so we round down. 6,847 rounded to the nearest hundred is 6,800.
+14::What is 25% of 200?::25::50::75::100::B::25% of 200 = 25/100 × 200 = 0.25 × 200 = 50.
+15::Which decimal is equal to 3/4?::0.34::0.43::0.75::0.74::C::3 ÷ 4 = 0.75. You can verify: 0.75 × 4 = 3.00 = 3. ✓
+16::What is 1,000 × 36?::360::3,600::36,000::360,000::C::When multiplying by 1,000, move the decimal point 3 places to the right (add 3 zeros): 36 × 1,000 = 36,000.
+17::What is the LCM of 4 and 6?::24::12::8::6::B::Multiples of 4: 4, 8, 12... Multiples of 6: 6, 12... The smallest common multiple is 12.
+18::What is the GCF of 18 and 24?::3::6::9::12::B::Factors of 18: 1,2,3,6,9,18. Factors of 24: 1,2,3,4,6,8,12,24. The greatest common factor is 6.
+19::What is 2.5 × 4?::6::8::10::12::C::2.5 × 4 = 10.0 = 10. Think of it as 2 × 4 + 0.5 × 4 = 8 + 2 = 10.
+20::A bag has 5 red and 3 blue marbles. What fraction are red?::5/8::3/8::5/3::8/5::A::Total marbles = 5 + 3 = 8. Fraction that are red = 5/8.
+21::What is 4² (4 squared)?::8::12::16::20::C::4² = 4 × 4 = 16. The exponent 2 means multiply the base by itself.
+22::Which of these is a composite number?::13::17::19::21::D::21 = 3 × 7, so it has factors other than 1 and itself. 13, 17, and 19 are all prime numbers.
+23::What is 9.8 - 4.3?::5.5::5.4::5.6::4.5::A::9.8 - 4.3 = 5.5. Subtract ones: 9-4=5, subtract tenths: 8-3=5. Answer is 5.5.
+24::If a pizza is cut into 8 equal slices and you eat 3 slices, what fraction is left?::3/8::5/8::3/5::1/2::B::You ate 3/8, so the remaining fraction is 8/8 - 3/8 = 5/8.
+25::What is 300 ÷ 25?::10::12::14::15::B::300 ÷ 25 = 12. Check: 12 × 25 = 300. ✓
+26::What is the next number in the pattern: 5, 10, 20, 40, ___?::60::70::80::100::C::Each number is multiplied by 2: 5×2=10, 10×2=20, 20×2=40, 40×2=80.
+27::A rectangle has a perimeter of 30 cm. If its width is 6 cm, what is its length?::9 cm::18 cm::24 cm::12 cm::A::Perimeter = 2 × (length + width). 30 = 2 × (L + 6), so L + 6 = 15, L = 9 cm.
+28::What is 1/3 of 45?::9::12::15::18::C::1/3 of 45 = 45 ÷ 3 = 15.
+29::Which number is divisible by both 3 and 5?::25::30::35::45::B::30 ÷ 3 = 10 ✓ and 30 ÷ 5 = 6 ✓. So 30 is divisible by both 3 and 5.
+30::What is the volume of a rectangular box that is 4 cm × 3 cm × 2 cm?::18 cm³::24 cm³::26 cm³::20 cm³::B::Volume = length × width × height = 4 × 3 × 2 = 24 cm³.
+31::How many minutes are in 3 hours and 20 minutes?::180 min::200 min::220 min::240 min::B::3 hours = 3 × 60 = 180 minutes. 180 + 20 = 200 minutes.
+32::What is 0.75 as a fraction in simplest form?::75/100::3/4::7/10::15/20::B::0.75 = 75/100. Divide both by 25: 75÷25 = 3, 100÷25 = 4. So 0.75 = 3/4.
+33::What is the missing number? 8 × ___ = 96::10::11::12::13::C::96 ÷ 8 = 12. Check: 8 × 12 = 96. ✓
+34::A store sells apples for $0.45 each. How much do 8 apples cost?::$3.20::$3.60::$4.00::$3.45::B::8 × $0.45 = $3.60.
+35::What is 50% of 90?::40::45::50::55::B::50% = 1/2. So 50% of 90 = 90 ÷ 2 = 45.
+36::Which angle is an obtuse angle?::45°::90°::120°::180°::C::An obtuse angle is greater than 90° and less than 180°. 120° fits this definition.
+37::What is 1,234 × 0?::1,234::0::12,340::123.4::B::Any number multiplied by 0 equals 0. This is the zero property of multiplication.
+38::What is the simplest form of 12/18?::6/9::4/6::2/3::3/4::C::GCF of 12 and 18 is 6. 12÷6 = 2, 18÷6 = 3. So 12/18 = 2/3.
+39::What is 10³ (10 cubed)?::300::1,000::10,000::100::B::10³ = 10 × 10 × 10 = 1,000.
+40::Sam has 240 stickers and shares them equally among 8 friends. How many does each friend get?::28::30::32::40::B::240 ÷ 8 = 30. Each friend gets 30 stickers.
+41::What is the median of: 3, 7, 9, 4, 6?::7::6::9::4::B::First arrange in order: 3, 4, 6, 7, 9. The middle value is 6.
+42::Which of these is NOT a factor of 36?::4::6::8::9::C::Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. 8 is not a factor because 36 ÷ 8 = 4.5 (not a whole number).
+43::What is 2/5 + 1/3?::3/8::3/15::11/15::4/8::C::LCM of 5 and 3 is 15. 2/5 = 6/15, 1/3 = 5/15. 6/15 + 5/15 = 11/15.
+44::A train travels 60 km per hour. How far does it travel in 3.5 hours?::180 km::200 km::210 km::220 km::C::Distance = speed × time = 60 × 3.5 = 210 km.
+45::What is the place value of 5 in 3.581?::Ones::Tenths::Hundredths::Thousandths::B::In the decimal 3.581: 3 is ones, 5 is tenths, 8 is hundredths, 1 is thousandths. So 5 is in the tenths place.
+46::If 1 kg = 1,000 g, how many grams is 3.5 kg?::350 g::3,500 g::35,000 g::300.5 g::B::3.5 kg × 1,000 = 3,500 g.
+47::What is 3/5 of 25?::10::12::15::20::C::3/5 of 25 = (25 ÷ 5) × 3 = 5 × 3 = 15.
+48::Which is the largest? ::0.5::0.55::0.505::0.05::B::Compare: 0.500, 0.550, 0.505, 0.050. The largest is 0.550 = 0.55.
+49::What is the mode of: 2, 5, 3, 5, 7, 5, 1?::3::5::7::2::B::The mode is the number that appears most often. 5 appears 3 times, which is more than any other number.
+50::How many lines of symmetry does a square have?::2::3::4::8::C::A square has 4 lines of symmetry: 2 through opposite corners (diagonals) and 2 through midpoints of opposite sides.
+51::What is 4.62 rounded to the nearest tenth?::4.7::4.6::5.0::4.62::B::The hundredths digit is 2, which is less than 5, so round down. 4.62 rounded to the nearest tenth is 4.6.
+52::A class has 30 students. 2/5 of them like football. How many students like football?::10::12::15::18::B::2/5 of 30 = (30 ÷ 5) × 2 = 6 × 2 = 12 students.
+53::What is 7 × 8 - 4 × 9?::20::56::-4::14::A::Using order of operations: (7 × 8) - (4 × 9) = 56 - 36 = 20.
+54::What is the sum of angles in a triangle?::90°::180°::270°::360°::B::The sum of all interior angles in any triangle is always 180°.
+55::What is 5/6 - 1/3?::4/3::1/2::4/6::2/6::B::1/3 = 2/6. So 5/6 - 2/6 = 3/6 = 1/2.
+56::Which unit would you use to measure the weight of a pencil?::Kilometers::Kilograms::Grams::Liters::C::A pencil is very light, so grams (g) is the appropriate unit. Kilograms are used for heavier objects.
+57::What is 120% of 50?::50::60::70::80::B::120% of 50 = 1.20 × 50 = 60.
+58::A number is multiplied by 6 and the result is 72. What is the number?::10::12::14::16::B::72 ÷ 6 = 12. Check: 12 × 6 = 72. ✓
+59::What is the product of 3/4 × 8?::24::6::3::12::B::3/4 × 8 = (3 × 8) ÷ 4 = 24 ÷ 4 = 6.
+60::If today is Wednesday, what day will it be in 10 days?::Friday::Saturday::Sunday::Monday::B::Wednesday + 7 days = Wednesday. Wednesday + 10 days = Wednesday + 3 more = Saturday.
+61::What is the area of a triangle with base 10 cm and height 6 cm?::60 cm²::30 cm²::16 cm²::26 cm²::B::Area of triangle = 1/2 × base × height = 1/2 × 10 × 6 = 30 cm².
+62::What is 4,500 ÷ 100?::4.5::45::450::0.45::B::Dividing by 100 moves the decimal point 2 places to the left. 4,500 ÷ 100 = 45.
+63::Which fraction is greater than 1/2?::2/5::3/7::5/9::4/9::C::Convert to common denominators or compare with 0.5: 5/9 ≈ 0.556 > 0.5. All others are less than 1/2.
+64::A rope is 8.4 m long. It is cut into pieces of 1.2 m each. How many pieces are there?::6::7::8::9::B::8.4 ÷ 1.2 = 7. Check: 7 × 1.2 = 8.4. ✓
+65::What is 3³ (3 cubed)?::9::18::27::81::C::3³ = 3 × 3 × 3 = 9 × 3 = 27.
+66::If a rectangle's area is 48 cm² and its length is 8 cm, what is its width?::5 cm::6 cm::7 cm::8 cm::B::Width = Area ÷ Length = 48 ÷ 8 = 6 cm.
+67::What is the value of: 5 + 3 × 4 - 2?::30::15::28::20::B::Order of operations (PEMDAS): multiplication first: 5 + 12 - 2 = 15.
+68::How many faces does a cube have?::4::5::6::8::C::A cube has 6 faces (top, bottom, front, back, left, right), all of which are equal squares.
+69::What is 7/10 as a decimal?::0.07::0.7::7.0::0.710::B::7/10 = 7 ÷ 10 = 0.7. The denominator 10 means one decimal place.
+70::A book costs $12.50. How much do 4 books cost?::$46.00::$48.00::$50.00::$52.00::C::4 × $12.50 = $50.00.
+71::What is the difference between the largest and smallest 4-digit numbers?::8,999::9,000::9,999::8,888::A::Largest 4-digit number = 9,999. Smallest 4-digit number = 1,000. Difference = 9,999 - 1,000 = 8,999.
+72::What is 2/3 ÷ 2?::1/3::4/3::2/6::1/6::A::2/3 ÷ 2 = 2/3 × 1/2 = 2/6 = 1/3. To divide by a whole number, multiply by its reciprocal.
+73::A square has a perimeter of 28 cm. What is its area?::49 cm²::56 cm²::28 cm²::14 cm²::A::Side = 28 ÷ 4 = 7 cm. Area = 7 × 7 = 49 cm².
+74::What is the mean (average) of: 10, 20, 30, 40?::20::25::30::22::B::Mean = sum ÷ count = (10+20+30+40) ÷ 4 = 100 ÷ 4 = 25.
+75::Which of these numbers is divisible by 9?::55::72::83::91::B::A number is divisible by 9 if its digits sum to a multiple of 9. 7+2 = 9. So 72 is divisible by 9. (72 ÷ 9 = 8)
+76::What is 0.3 × 0.4?::1.2::0.12::0.7::1.20::B::0.3 × 0.4 = 0.12. Multiply 3 × 4 = 12, then place 2 decimal points from the right: 0.12.
+77::A bicycle trip is 45 km. If 3/5 is complete, how many km remain?::15 km::18 km::27 km::30 km::B::3/5 done = 27 km done. Remaining = 45 - 27 = 18 km. Or: 2/5 remaining = 2/5 × 45 = 18 km.
+78::What is 1 - 3/8?::5/8::3/8::2/8::4/8::A::1 = 8/8. 8/8 - 3/8 = 5/8.
+79::How many edges does a rectangular prism (cuboid) have?::8::10::12::16::C::A rectangular prism has 12 edges: 4 on the top face, 4 on the bottom face, and 4 vertical edges connecting them.
+80::What is the missing number in: 3, 6, 12, 24, ___, 96?::36::42::48::50::C::Each number is doubled: 3×2=6, 6×2=12, 12×2=24, 24×2=48, 48×2=96.
+81::If 5 pencils cost $1.50, how much do 8 pencils cost?::$2.00::$2.40::$2.80::$3.00::B::Cost per pencil = $1.50 ÷ 5 = $0.30. Cost of 8 = 8 × $0.30 = $2.40.
+82::What is the smallest prime number?::0::1::2::3::C::2 is the smallest prime number. It is divisible only by 1 and itself. Note: 0 and 1 are not prime numbers.
+83::What is 100 - 67.85?::32.15::33.15::32.85::33.25::A::100.00 - 67.85 = 32.15. Borrow as needed across the decimal point.
+84::A jug holds 2.5 liters. How many 250 ml cups can be filled from it?::8::10::12::5::B::2.5 liters = 2,500 ml. 2,500 ÷ 250 = 10 cups.
+85::What is 1/4 + 2/8?::3/12::1/2::3/8::3/4::B::2/8 = 1/4. So 1/4 + 1/4 = 2/4 = 1/2.
+86::Which 3D shape has exactly one circular base and one curved surface that meets at a point?::Cylinder::Sphere::Cone::Pyramid::C::A cone has exactly one circular base and one curved lateral surface that tapers to a single point called the apex.
+87::What is 45 × 12?::450::490::540::580::C::45 × 12 = 45 × 10 + 45 × 2 = 450 + 90 = 540.
+88::A shirt costs $24. It is on sale at 25% off. What is the sale price?::$6::$16::$18::$20::C::25% of $24 = $6. Sale price = $24 - $6 = $18.
+89::What is the remainder when 47 is divided by 5?::1::2::3::4::B::47 ÷ 5 = 9 remainder 2. Check: 9 × 5 = 45, and 47 - 45 = 2. ✓
+90::Which decimal is equal to 1/5?::0.5::0.15::0.2::0.25::C::1 ÷ 5 = 0.2. Or think of it as 2/10 = 0.2.
+91::A clock shows 3:45. What is the angle made by the minute hand from 12?::225°::270°::180°::360°::B::At 45 minutes, the minute hand has moved 45/60 of a full circle. 45/60 × 360° = 270°.
+92::What is 6/10 + 35/100?::41/110::0.95::0.65::41/10::B::6/10 = 60/100. 60/100 + 35/100 = 95/100 = 0.95.
+93::If the temperature is 12°C in the morning and drops by 18°C at night, what is the night temperature?::-6°C::6°C::-18°C::30°C::A::12 - 18 = -6°C. The temperature goes below zero.
+94::What is 2/3 × 3/4?::6/12::1/2::5/7::2/4::B::Multiply numerators and denominators: (2×3)/(3×4) = 6/12 = 1/2.
+95::A box of 48 crayons is shared among 6 students. Each student gives away 2 crayons. How many does each have?::6::8::10::12::A::Each student gets 48 ÷ 6 = 8 crayons. Then each gives away 2: 8 - 2 = 6 crayons.
+96::What is the Roman numeral for 50?::X::V::L::C::C::L represents 50 in Roman numerals. X=10, V=5, L=50, C=100.
+97::How many vertices does a triangular pyramid (tetrahedron) have?::3::4::5::6::B::A triangular pyramid (tetrahedron) has 4 vertices: 3 at the base triangle and 1 at the top apex.
+98::What is 999 + 1?::1,000::999::1,001::1,099::A::999 + 1 = 1,000. This crosses into the thousands place value.
+99::A garden is 15 m long and 8 m wide. What is the area of the garden?::46 m²::120 m²::23 m²::100 m²::B::Area = length × width = 15 × 8 = 120 m².
+100::Sarah reads 25 pages a day. How many days will she need to read a 375-page book?::12 days::15 days::20 days::25 days::B::Days = total pages ÷ pages per day = 375 ÷ 25 = 15 days.

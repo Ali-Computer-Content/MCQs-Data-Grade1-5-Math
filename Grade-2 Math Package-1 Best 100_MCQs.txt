@@ -1,0 +1,100 @@
+1::What is 7 + 5?::10::11::12::13::C::7 + 5 = 12. Count on from 7: 8, 9, 10, 11, 12.
+2::What is 15 - 6?::7::8::9::10::C::15 - 6 = 9. Count back 6 from 15: 14, 13, 12, 11, 10, 9.
+3::Which number comes NEXT? 10, 20, 30, 40, ___?::45::50::55::60::B::The pattern counts by 10s. After 40 comes 50.
+4::Sam has 8 apples. He gives 3 to his friend. How many apples does Sam have left?::4::5::6::7::B::8 - 3 = 5 apples left.
+5::What is the value of the underlined digit in 47? (the 4 is underlined)?::4::7::40::70::C::In the number 47, the digit 4 is in the tens place. Its value is 4 tens = 40.
+6::Which number is GREATER: 56 or 65?::56::65::they are equal::impossible to tell::B::65 has 6 tens and 56 has only 5 tens. 65 is greater than 56.
+7::There are 3 groups of 4 stars. How many stars are there in all?::7::10::12::14::C::3 groups of 4 = 3 × 4 = 12 stars.
+8::What shape has 4 equal sides and 4 corners?::rectangle::triangle::square::circle::C::A square has 4 equal sides and 4 right-angle corners.
+9::What is 9 + 9?::16::17::18::19::C::9 + 9 = 18. This is a doubles fact.
+10::Lisa has 14 crayons. She gets 5 more. How many crayons does she have now?::17::18::19::20::C::14 + 5 = 19 crayons.
+11::Which number is the SMALLEST? 23, 32, 13, 31?::23::32::13::31::C::13 has 1 ten, which is less than 2 or 3 tens. 13 is the smallest.
+12::Count the nickels: 5¢, 5¢, 5¢, 5¢. How much money is that?::10¢::15¢::20¢::25¢::C::4 nickels × 5¢ = 20¢.
+13::What is 40 + 30?::60::70::80::90::B::4 tens + 3 tens = 7 tens = 70.
+14::A dog has 4 legs. How many legs do 5 dogs have?::16::18::20::22::C::5 × 4 = 20 legs.
+15::Which number is between 47 and 51?::46::48::52::55::B::48 comes after 47 and before 51 on the number line.
+16::What is half of 10?::4::5::6::8::B::Half means to split into 2 equal parts. 10 ÷ 2 = 5.
+17::There are 12 birds on a fence. 4 fly away. How many are left?::6::7::8::9::C::12 - 4 = 8 birds left.
+18::What time does a clock show when the short hand is on 3 and the long hand is on 12?::12:03::3:00::3:12::12:15::B::When the minute hand (long) is on 12 and the hour hand (short) is on 3, it shows 3:00.
+19::How many sides does a triangle have?::2::3::4::5::B::A triangle always has exactly 3 sides and 3 corners.
+20::What is 25 + 10?::30::33::35::40::C::Adding 10 means adding 1 ten. 25 + 10 = 35.
+21::Which number sentence is TRUE?::5 + 3 = 9::6 + 4 = 11::7 + 2 = 9::8 + 1 = 10::C::7 + 2 = 9. The others: 5+3=8 (not 9), 6+4=10 (not 11), 8+1=9 (not 10).
+22::Jake has 2 bags of 5 marbles each. How many marbles does he have in all?::5::7::10::12::C::2 bags × 5 marbles = 10 marbles.
+23::What is 63 - 3?::56::57::60::66::C::63 - 3 = 60. Subtracting ones: 3 ones - 3 ones = 0 ones, keep 6 tens.
+24::Which number is ODD: 12, 15, 18, 20?::12::15::18::20::B::Odd numbers end in 1, 3, 5, 7, or 9. Only 15 ends in 5, so it is odd.
+25::A rectangle has 2 long sides and 2 short sides. How many sides does it have in total?::2::3::4::5::C::All rectangles have 4 sides total — 2 pairs of opposite sides.
+26::What is 50 - 20?::20::30::40::10::B::5 tens - 2 tens = 3 tens = 30.
+27::Which shows the number FORTY-THREE?::34::43::73::37::B::Forty-three means 4 tens and 3 ones = 43.
+28::What comes NEXT in the pattern? 2, 4, 6, 8, ___?::9::10::11::12::B::Counting by 2s: after 8 comes 10.
+29::There are 20 students. 10 are boys. How many are girls?::8::9::10::11::C::20 - 10 = 10 girls.
+30::How many dimes make one dollar?::5::8::10::12::C::1 dollar = 100¢. 1 dime = 10¢. 100 ÷ 10 = 10 dimes.
+31::What is 8 + 7?::13::14::15::16::C::8 + 7 = 15. Make a ten: 8 + 2 = 10, then 10 + 5 = 15.
+32::A pizza is cut into 4 equal slices. Tom eats 1 slice. What fraction did Tom eat?::1/2::1/3::1/4::1/5::C::1 piece out of 4 equal pieces = 1/4 (one-fourth).
+33::What number is 10 MORE than 36?::26::37::46::56::C::36 + 10 = 46. Adding 10 increases the tens digit by 1.
+34::Which shape has NO corners and NO sides?::square::triangle::circle::rectangle::C::A circle is perfectly round with no corners and no straight sides.
+35::What is 17 + 8?::23::24::25::26::C::17 + 8: Make a ten: 17 + 3 = 20, then 20 + 5 = 25.
+36::A bookshelf has 3 rows with 6 books in each row. How many books are there in all?::15::16::17::18::D::3 × 6 = 18 books.
+37::What is the number 58 in words?::fifty-three::fifty-eight::eighty-five::fifty-nine::B::5 tens and 8 ones = fifty-eight.
+38::Which is LONGER: a pencil that is 7 inches or a crayon that is 4 inches?::crayon::pencil::they are the same::impossible to tell::B::7 inches is longer than 4 inches, so the pencil is longer.
+39::What is 100 - 40?::50::55::60::65::C::10 tens - 4 tens = 6 tens = 60.
+40::How many cents is 1 quarter?::10¢::15¢::20¢::25¢::D::A quarter is worth 25 cents.
+41::What number is MISSING? 55, 60, ___, 70, 75?::62::63::64::65::D::Counting by 5s: 55, 60, 65, 70, 75. The missing number is 65.
+42::There are 4 shelves. Each shelf has 5 toys. How many toys are there in all?::16::18::20::22::C::4 × 5 = 20 toys.
+43::Which number has a 7 in the TENS place?::27::72::17::57::B::In 72, the digit 7 is in the tens place (7 tens = 70).
+44::What is 46 + 20?::56::64::66::76::C::46 + 20 = 66. Adding 2 tens: 4 tens + 2 tens = 6 tens, keep 6 ones.
+45::A bag holds 10 apples. How many apples are in 4 bags?::30::35::40::45::C::4 × 10 = 40 apples.
+46::What is half of 16?::6::7::8::9::C::16 ÷ 2 = 8. Split 16 into two equal groups of 8.
+47::Which number is EVEN: 13, 17, 24, 29?::13::17::24::29::C::Even numbers end in 0, 2, 4, 6, or 8. Only 24 ends in 4.
+48::A clock shows 7:30. Where is the LONG (minute) hand pointing?::12::3::6::9::C::When the time shows :30 (30 minutes), the minute hand points to 6.
+49::What is 83 - 10?::63::73::74::93::B::83 - 10 = 73. Subtracting 1 ten: 8 tens - 1 ten = 7 tens, keep 3 ones.
+50::Mom bakes 24 cookies. She puts them in bags of 6. How many bags does she need?::3::4::5::6::B::24 ÷ 6 = 4 bags.
+51::What is 6 + 6 + 6?::12::16::18::24::C::Three 6s = 3 × 6 = 18. Or count up: 6+6=12, 12+6=18.
+52::Which shape has 5 sides?::square::hexagon::triangle::pentagon::D::A pentagon has exactly 5 sides and 5 corners.
+53::There are 30 children in a class. They stand in groups of 10. How many groups are there?::2::3::4::5::B::30 ÷ 10 = 3 groups.
+54::What is the SUM of 34 and 25?::57::58::59::60::C::34 + 25: add tens (30+20=50), add ones (4+5=9), total = 59.
+55::What is 72 - 41?::21::31::32::41::B::72 - 41: tens: 7-4=3, ones: 2-1=1. Answer = 31.
+56::A number has 5 tens and 2 ones. What is the number?::25::52::520::205::B::5 tens = 50, 2 ones = 2. The number is 52.
+57::Which is the BEST unit to measure the length of a classroom?::inches::feet::miles::pounds::B::Feet are a good unit for measuring room lengths. Inches are too small; miles are too large; pounds measure weight, not length.
+58::What comes BEFORE 100?::98::99::101::102::B::The number just before 100 on the number line is 99.
+59::There are 15 fish in a tank. A pet store gets 7 more. How many fish are in the tank now?::20::21::22::23::C::15 + 7 = 22 fish.
+60::What is 5 × 2?::5::7::10::12::C::5 × 2 = 10. Five groups of 2 (or two groups of 5) equals 10.
+61::Which number sentence shows the SAME fact as 3 + 8 = 11?::8 - 3 = 5::11 - 8 = 3::8 + 3 = 11::11 + 3 = 14::C::Addition is commutative: 3 + 8 = 8 + 3 = 11. Swapping the numbers gives the same sum.
+62::A ribbon is 20 cm long. Another ribbon is 15 cm long. How much LONGER is the first ribbon?::3 cm::4 cm::5 cm::6 cm::C::20 - 15 = 5 cm longer.
+63::What fraction of a shape is colored if 2 out of 4 equal parts are colored?::1/4::1/3::1/2::3/4::C::2 out of 4 equal parts = 2/4 = 1/2 (one-half).
+64::What is 99 + 1?::99::100::101::109::B::99 + 1 = 100. Adding 1 to 99 reaches the next hundred.
+65::There are 10 cookies. Mia and Ben share them equally. How many does each person get?::4::5::6::7::B::10 ÷ 2 = 5 cookies each.
+66::What number is 10 LESS than 80?::60::69::70::71::C::80 - 10 = 70. Subtracting 1 ten: 8 tens - 1 ten = 7 tens.
+67::A square has a side length of 4 cm. What is the TOTAL length around the square (perimeter)?::8 cm::12 cm::16 cm::20 cm::C::A square has 4 equal sides. Perimeter = 4 × 4 = 16 cm.
+68::Which group shows the number 14?::one group of 10 and 4 ones::one group of 10 and 14 ones::4 tens and 1 one::1 one and 14 tens::A::14 = 1 ten + 4 ones. One group of 10 and 4 ones is correct.
+69::What is 13 - 5?::6::7::8::9::C::13 - 5 = 8. Count back 5 from 13: 12, 11, 10, 9, 8.
+70::Anna collects 24 seashells on Monday and 15 on Tuesday. How many seashells does she collect in all?::37::38::39::40::C::24 + 15: tens (20+10=30), ones (4+5=9). Total = 39.
+71::Which shows TWENTY-FIVE CENTS using fewest coins?::25 pennies::5 nickels::1 quarter::2 dimes and 1 nickel::C::1 quarter = 25¢. It is just 1 coin — the fewest possible.
+72::What is 2 × 10?::12::15::20::22::C::2 × 10 = 20. Two groups of 10 equals 20.
+73::A number is greater than 45 but less than 47. What is the number?::44::46::48::50::B::46 is the only whole number between 45 and 47.
+74::There are 18 grapes. They are divided equally onto 3 plates. How many grapes are on each plate?::4::5::6::7::C::18 ÷ 3 = 6 grapes on each plate.
+75::What is 30 + 45?::65::70::75::80::C::30 + 45: tens (30+40=70), ones (0+5=5). Total = 75.
+76::Which solid shape looks like a ball?::cube::cone::sphere::cylinder::C::A sphere is a perfectly round 3D shape that looks like a ball.
+77::Ben has 50¢. He spends 30¢ on a sticker. How much money does he have left?::10¢::15¢::20¢::25¢::C::50¢ - 30¢ = 20¢.
+78::What is 11 + 11?::21::22::23::24::B::11 + 11 = 22. Doubles: double 11 is 22.
+79::A calendar shows February has 28 days. How many weeks is that?::3 weeks::4 weeks::5 weeks::6 weeks::B::28 ÷ 7 = 4 weeks exactly.
+80::Which number has the MOST tens? 19, 91, 29, 92?::19::91::29::92::D::92 has 9 tens, more than any of the others.
+81::What is 56 + 30?::76::84::86::96::C::56 + 30: add 3 tens to 5 tens = 8 tens. Keep 6 ones. Answer = 86.
+82::A bug has 6 legs. How many legs do 4 bugs have in all?::20::22::24::26::C::4 × 6 = 24 legs.
+83::Which number comes JUST AFTER 109?::99::108::110::111::C::On the number line, the number just after 109 is 110.
+84::What is 45 - 15?::20::25::30::35::C::45 - 15: tens (4-1=3), ones (5-5=0). Answer = 30.
+85::If today is Monday, what day will it be in 3 days?::Wednesday::Thursday::Friday::Saturday::B::Monday → Tuesday (1) → Wednesday (2) → Thursday (3).
+86::A jar has 10 red beads and 10 blue beads. What fraction of the beads are red?::1/4::1/3::1/2::2/3::C::10 red out of 20 total = 10/20 = 1/2.
+87::What is 3 × 5?::10::12::15::18::C::3 × 5 = 15. Three groups of 5: 5 + 5 + 5 = 15.
+88::A number has 8 in the ones place and 3 in the tens place. What is the number?::83::38::380::308::B::3 tens + 8 ones = 38.
+89::Which shows the correct ORDER from smallest to largest? ::32, 23, 12, 41::12, 23, 32, 41::41, 32, 23, 12::23, 12, 41, 32::B::12 < 23 < 32 < 41. Compare tens digits first: 1 < 2 < 3 < 4.
+90::There are 3 flowers in each vase. There are 7 vases. How many flowers are there in all?::18::19::21::24::C::7 × 3 = 21 flowers.
+91::What is 80 - 50?::20::30::40::10::B::8 tens - 5 tens = 3 tens = 30.
+92::A ruler shows 1 foot = 12 inches. How many inches are in 2 feet?::14::20::24::22::C::2 × 12 = 24 inches.
+93::What is MISSING? ☐ + 6 = 14?::6::7::8::9::C::14 - 6 = 8. The missing number is 8 because 8 + 6 = 14.
+94::Which solid shape has a FLAT circle on the bottom and comes to a POINT on top?::sphere::cylinder::cone::cube::C::A cone has a flat circular base and tapers to a point (apex) at the top.
+95::If you have 3 dimes and 2 pennies, how much money do you have?::23¢::30¢::32¢::35¢::C::3 dimes = 30¢ + 2 pennies = 2¢. Total = 32¢.
+96::What is 10 + 10 + 10 + 10 + 10?::40::45::50::55::C::Five tens = 5 × 10 = 50.
+97::A garden has 28 flowers. 14 are red and the rest are yellow. How many flowers are yellow?::12::13::14::15::C::28 - 14 = 14 yellow flowers.
+98::Which number sentence is in the SAME fact family as 5 + 7 = 12?::7 - 5 = 2::12 - 5 = 7::5 + 5 = 10::7 + 7 = 14::B::Fact families: 5+7=12 and 7+5=12 are addition facts; 12-5=7 and 12-7=5 are subtraction facts. They all use the same three numbers: 5, 7, 12.
+99::What is 100 - 1?::88::89::99::101::C::100 - 1 = 99. One less than 100 is 99.
+100::There are 4 tables in a classroom. Each table has 6 chairs. How many chairs are there in all?::20::22::24::26::C::4 tables × 6 chairs = 24 chairs in all.

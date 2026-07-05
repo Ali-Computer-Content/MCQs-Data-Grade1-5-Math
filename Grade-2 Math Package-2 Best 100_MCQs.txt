@@ -1,0 +1,100 @@
+1::What is 45 + 27?::62::72::82::92::b::45 + 27 = 72. Add the tens (40+20=60) and ones (5+7=12), then combine.
+2::What is 83 - 35?::38::48::58::68::b::83 - 35 = 48. Subtract the ones and tens carefully.
+3::What is the value of the digit 6 in 362?::6::60::600::6 ones::b::In 362, 6 is in the tens place, so its value is 60.
+4::How many minutes are in one hour?::30::45::60::90::c::There are 60 minutes in one hour.
+5::What is 8 x 3?::18::21::24::27::c::8 multiplied by 3 equals 24.
+6::Which is greater: 145 or 154?::145::154::They are equal::Cannot tell::b::154 is greater than 145.
+7::What is 120 - 45?::65::75::85::95::b::120 - 45 = 75.
+8::If a quarter is 25 cents, how much are 4 quarters?::50 cents::75 cents::1 dollar::1.25 dollars::c::4 quarters = 100 cents = 1 dollar.
+9::What time is shown when the hour hand is on 3 and minute hand on 12?::2:00::3:00::3:30::4:00::b::When the minute hand is on 12, it is exactly 3 o'clock.
+10::What is the next number in the pattern: 20, 25, 30, 35?::36::40::45::50::b::Add 5 each time: next is 40.
+11::What is 56 + 38?::84::94::104::114::b::56 + 38 = 94.
+12::What is 92 - 47?::35::45::55::65::b::92 - 47 = 45.
+13::How many sides does a pentagon have?::3::4::5::6::c::A pentagon has 5 sides.
+14::What is the value of 3 in 435?::3::30::300::3 hundreds::c::In 435, 3 is in the hundreds place.
+15::What is 7 x 4?::21::24::28::32::c::7 multiplied by 4 equals 28.
+16::Which fraction is equal to one half?::1/3::1/4::1/2::2/3::c::1/2 represents one half.
+17::What is 200 + 150?::250::300::350::400::c::200 + 150 = 350.
+18::What is 135 - 68?::57::67::77::87::b::135 - 68 = 67.
+19::How much is 3 dimes and 2 nickels?::25 cents::35 cents::40 cents::45 cents::b::3 dimes = 30 cents, 2 nickels = 10 cents, total 40 cents.
+20::What time is 30 minutes after 2:45?::3:00::3:15::3:30::3:45::b::30 minutes after 2:45 is 3:15.
+21::What is 9 x 5?::35::40::45::50::c::9 multiplied by 5 equals 45.
+22::What is 78 + 19?::87::97::107::117::b::78 + 19 = 97.
+23::What is 106 - 29?::67::77::87::97::b::106 - 29 = 77.
+24::Which shape has 4 sides but not all equal?::Square::Rectangle::Triangle::Pentagon::b::A rectangle has 4 sides with opposite sides equal.
+25::What is the place value of 8 in 682?::8::80::800::8 tens::b::8 is in the tens place.
+26::How many inches in one foot?::10::12::15::20::b::There are 12 inches in one foot.
+27::What is 6 x 6?::24::30::36::42::c::6 multiplied by 6 equals 36.
+28::What is 250 - 125?::100::115::125::135::c::250 - 125 = 125.
+29::If you skip count by 10s starting from 40, what comes after 70?::75::80::85::90::b::80.
+30::What is 11 x 3?::30::33::36::39::b::11 multiplied by 3 equals 33.
+31::What is 64 + 27?::81::91::101::111::b::64 + 27 = 91.
+32::What is 83 - 36?::37::47::57::67::b::83 - 36 = 47.
+33::Which is an even number?::15::22::37::41::b::22 is even (divisible by 2).
+34::What fraction shows one fourth?::1/2::1/3::1/4::2/4::c::1/4 is one fourth.
+35::What is 300 + 80 + 5?::385::395::485::585::a::300 + 80 + 5 = 385.
+36::What is 142 - 75?::57::67::77::87::b::142 - 75 = 67.
+37::How many cents in one dollar?::50::75::100::200::c::There are 100 cents in one dollar.
+38::What time is shown at quarter past 4?::4:00::4:15::4:30::4:45::b::Quarter past means 15 minutes past.
+39::What is 8 x 7?::48::56::64::72::b::8 multiplied by 7 equals 56.
+40::What is 95 + 48?::133::143::153::163::b::95 + 48 = 143.
+41::What is 121 - 54?::57::67::77::87::b::121 - 54 = 67.
+42::A triangle has how many vertices?::2::3::4::5::b::A triangle has 3 vertices (corners).
+43::What is the value of 4 in 942?::4::40::400::4 tens::b::4 is in the tens place.
+44::What is 12 x 2?::20::22::24::26::c::12 multiplied by 2 equals 24.
+45::What is 175 + 25?::180::190::200::210::c::175 + 25 = 200.
+46::What is 200 - 86?::104::114::124::134::b::200 - 86 = 114.
+47::How many nickels make 50 cents?::5::8::10::12::c::10 nickels = 50 cents.
+48::What is half past 9?::9:00::9:15::9:30::9:45::c::Half past means 30 minutes past.
+49::What is 9 x 6?::45::54::63::72::b::9 multiplied by 6 equals 54.
+50::What is 67 + 39?::96::106::116::126::b::67 + 39 = 106.
+51::What is 158 - 79?::69::79::89::99::b::158 - 79 = 79.
+52::Which number is odd?::44::55::66::88::b::55 is odd.
+53::What fraction is shaded if half of a shape is colored?::1/2::1/3::1/4::2/3::a::Half shaded is 1/2.
+54::What is 400 + 120?::480::520::620::720::b::400 + 120 = 520.
+55::What is 135 - 68?::57::67::77::87::b::135 - 68 = 67.
+56::How many feet in one yard?::2::3::4::5::b::There are 3 feet in one yard.
+57::What is 7 x 8?::48::56::64::72::b::7 multiplied by 8 equals 56.
+58::What is 89 + 56?::135::145::155::165::b::89 + 56 = 145.
+59::What is 203 - 97?::96::106::116::126::b::203 - 97 = 106.
+60::What is the next number: 135, 145, 155?::160::165::170::175::b::Add 10: 165.
+61::What is 11 x 4?::40::44::48::52::b::11 multiplied by 4 equals 44.
+62::What is 76 + 25?::91::101::111::121::b::76 + 25 = 101.
+63::What is 184 - 76?::98::108::118::128::b::184 - 76 = 108.
+64::A square has how many right angles?::2::3::4::5::c::A square has 4 right angles.
+65::What is the place value of 2 in 528?::2::20::200::2 hundreds::c::2 is in the hundreds place.
+66::What is 5 x 9?::35::40::45::50::c::5 multiplied by 9 equals 45.
+67::What is 250 + 175?::375::425::475::525::b::250 + 175 = 425.
+68::What is 312 - 145?::157::167::177::187::b::312 - 145 = 167.
+69::How many quarters make 75 cents?::2::3::4::5::b::3 quarters = 75 cents.
+70::What is quarter to 5?::4:15::4:30::4:45::5:00::c::Quarter to 5 is 4:45.
+71::What is 12 x 3?::30::33::36::39::c::12 multiplied by 3 equals 36.
+72::What is 98 + 47?::135::145::155::165::b::98 + 47 = 145.
+73::What is 276 - 89?::177::187::197::207::b::276 - 89 = 187.
+74::Which is a quadrilateral?::Triangle::Pentagon::Rectangle::Hexagon::c::A rectangle is a quadrilateral (4 sides).
+75::What is 600 + 80 + 9?::689::699::789::889::a::600 + 80 + 9 = 689.
+76::What is 425 - 178?::237::247::257::267::b::425 - 178 = 247.
+77::How much is 6 dimes?::30 cents::60 cents::90 cents::1.20 dollars::b::6 dimes = 60 cents.
+78::What is 20 minutes after 10:40?::10:50::11:00::11:10::11:20::b::10:40 + 20 minutes = 11:00.
+79::What is 8 x 8?::56::64::72::80::b::8 multiplied by 8 equals 64.
+80::What is 134 + 68?::192::202::212::222::b::134 + 68 = 202.
+81::What is 301 - 156?::135::145::155::165::b::301 - 156 = 145.
+82::Which number is the smallest: 289, 298, 279?::279::289::298::All same::a::279 is the smallest.
+83::What fraction is 3 out of 4?::1/4::2/4::3/4::4/4::c::3 out of 4 is 3/4.
+84::What is 500 + 250?::650::750::850::950::b::500 + 250 = 750.
+85::What is 198 - 79?::109::119::129::139::b::198 - 79 = 119.
+86::How many centimeters in one meter?::10::50::100::1000::c::There are 100 centimeters in one meter.
+87::What is 9 x 7?::53::63::73::83::b::9 multiplied by 7 equals 63.
+88::What is 87 + 59?::136::146::156::166::b::87 + 59 = 146.
+89::What is 412 - 235?::167::177::187::197::b::412 - 235 = 177.
+90::What comes next: 450, 460, 470?::475::480::485::490::b::Add 10: 480.
+91::What is 10 x 6?::50::60::70::80::b::10 multiplied by 6 equals 60.
+92::What is 156 + 77?::223::233::243::253::b::156 + 77 = 233.
+93::What is 289 - 94?::185::195::205::215::b::289 - 94 = 195.
+94::A circle has how many sides?::0::1::2::4::a::A circle has no straight sides.
+95::What is the place value of 7 in 672?::7::70::700::7 tens::b::7 is in the tens place.
+96::What is 11 x 5?::50::55::60::65::b::11 multiplied by 5 equals 55.
+97::What is 375 + 125?::480::490::500::510::c::375 + 125 = 500.
+98::What is 500 - 236?::254::264::274::284::b::500 - 236 = 264.
+99::How many pennies make one dollar?::50::75::100::200::c::100 pennies = 1 dollar.
+100::What time is 45 minutes after 7:20?::7:55::8:05::8:15::8:25::b::7:20 + 45 minutes = 8:05.

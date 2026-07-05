@@ -1,0 +1,100 @@
+1::What is 248 + 135?::373::383::393::403::B::248 + 135 = 383.
+2::What is 562 - 278?::274::284::294::304::B::562 - 278 = 284.
+3::What is 8 × 7?::54::56::58::64::B::8 × 7 = 56.
+4::What is 72 ÷ 8?::8::9::10::11::B::72 ÷ 8 = 9.
+5::Which number is even?::15::27::34::41::C::34 is divisible by 2.
+6::What is the value of 6 × 9?::48::54::56::64::B::6 × 9 = 54.
+7::What is 325 + 489?::804::814::824::834::B::325 + 489 = 814.
+8::What is 900 - 456?::434::444::454::464::B::900 - 456 = 444.
+9::What is 5 × 12?::50::55::60::65::C::5 × 12 = 60.
+10::What is 81 ÷ 9?::8::9::10::11::B::81 ÷ 9 = 9.
+11::What is 14 + 29?::42::43::44::45::B::14 + 29 = 43.
+12::What is 96 - 38?::56::57::58::59::C::96 - 38 = 58.
+13::What is 7 × 8?::54::56::58::60::B::7 × 8 = 56.
+14::What is 64 ÷ 8?::6::7::8::9::C::64 ÷ 8 = 8.
+15::What is 450 + 250?::600::650::700::750::C::450 + 250 = 700.
+16::What is 1,000 - 325?::665::675::685::695::B::1,000 - 325 = 675.
+17::What is 9 × 4?::32::34::36::38::C::9 × 4 = 36.
+18::What is 42 ÷ 6?::6::7::8::9::B::42 ÷ 6 = 7.
+19::Which fraction represents one-half?::1/3::1/2::2/3::3/4::B::1/2 represents one-half.
+20::Which fraction is greater?::1/4::1/2::1/8::1/10::B::1/2 is the greatest.
+21::What is 3/4 of 20?::10::12::15::18::C::3/4 × 20 = 15.
+22::How many minutes are in 2 hours?::100::110::120::130::C::2 hours = 120 minutes.
+23::How many sides does a hexagon have?::5::6::7::8::B::A hexagon has 6 sides.
+24::How many months are in a year?::10::11::12::13::C::There are 12 months in a year.
+25::What is 15 × 3?::35::40::45::50::C::15 × 3 = 45.
+26::What is 144 ÷ 12?::10::11::12::13::C::144 ÷ 12 = 12.
+27::Round 348 to the nearest hundred.::300::350::400::450::A::348 rounds to 300.
+28::Round 678 to the nearest ten.::670::675::680::690::C::678 rounds to 680.
+29::What is 25 + 36?::51::61::71::81::B::25 + 36 = 61.
+30::What is 78 - 29?::47::48::49::50::C::78 - 29 = 49.
+31::What is 11 × 11?::111::121::131::141::B::11 × 11 = 121.
+32::What is 90 ÷ 10?::8::9::10::11::B::90 ÷ 10 = 9.
+33::Which number is prime?::8::9::10::13::D::13 has only two factors, 1 and 13.
+34::What is the perimeter of a square with side length 5 cm?::10 cm::15 cm::20 cm::25 cm::C::Perimeter = 4 × 5 = 20 cm.
+35::What is the area of a rectangle 6 cm by 4 cm?::20 cm²::22 cm²::24 cm²::26 cm²::C::Area = 6 × 4 = 24 cm².
+36::How many centimeters are in 1 meter?::10::100::1,000::10,000::B::1 meter = 100 centimeters.
+37::What is 2 × 25?::40::45::50::55::C::2 × 25 = 50.
+38::What is 300 + 450?::650::700::750::800::C::300 + 450 = 750.
+39::What is 875 - 125?::650::700::750::800::C::875 - 125 = 750.
+40::What is 13 × 6?::72::76::78::82::C::13 × 6 = 78.
+41::How many hours are in one day?::12::18::24::36::C::A day has 24 hours.
+42::Which angle is less than 90 degrees?::Right angle::Obtuse angle::Acute angle::Straight angle::C::An acute angle is less than 90 degrees.
+43::What is 1/4 of 16?::2::3::4::5::C::16 ÷ 4 = 4.
+44::What is 10 × 10?::90::100::110::120::B::10 × 10 = 100.
+45::What is 56 ÷ 7?::6::7::8::9::C::56 ÷ 7 = 8.
+46::How many quarters make one dollar?::2::3::4::5::C::Four quarters equal one dollar.
+47::What is 18 + 27?::35::45::55::65::B::18 + 27 = 45.
+48::What is 65 - 19?::44::45::46::47::C::65 - 19 = 46.
+49::What is 4 × 14?::52::54::56::58::C::4 × 14 = 56.
+50::What is 99 ÷ 9?::9::10::11::12::C::99 ÷ 9 = 11.
+51::What is 456 + 289?::735::745::755::765::B::456 + 289 = 745.
+52::What is 803 - 476?::317::327::337::347::B::803 - 476 = 327.
+53::What is 7 × 12?::72::84::96::98::B::7 × 12 = 84.
+54::What is 96 ÷ 12?::6::7::8::9::C::96 ÷ 12 = 8.
+55::Which fraction is the smallest?::1/2::1/3::1/4::1/5::D::1/5 is the smallest fraction.
+56::What is 2/3 of 18?::10::12::14::16::B::18 ÷ 3 = 6, and 6 × 2 = 12.
+57::How many inches are in 1 foot?::10::12::14::16::B::1 foot equals 12 inches.
+58::How many days are in one week?::5::6::7::8::C::There are 7 days in a week.
+59::What is the perimeter of a rectangle with length 8 cm and width 5 cm?::13 cm::26 cm::40 cm::30 cm::B::Perimeter = 2 × (8 + 5) = 26 cm.
+60::What is the area of a rectangle 7 cm by 3 cm?::10 cm²::18 cm²::21 cm²::24 cm²::C::Area = 7 × 3 = 21 cm².
+61::Round 462 to the nearest hundred.::400::450::500::600::C::462 rounds to 500.
+62::Round 735 to the nearest ten.::730::735::740::750::C::735 rounds to 740.
+63::What is 16 × 4?::60::62::64::66::C::16 × 4 = 64.
+64::What is 144 ÷ 9?::14::15::16::18::C::144 ÷ 9 = 16.
+65::Which shape has 8 sides?::Hexagon::Heptagon::Octagon::Pentagon::C::An octagon has 8 sides.
+66::How many degrees are in a right angle?::45°::60°::90°::180°::C::A right angle measures 90°.
+67::What is 3/5 of 25?::10::15::20::25::B::25 ÷ 5 = 5, and 5 × 3 = 15.
+68::What is 1/4 of 36?::8::9::10::12::B::36 ÷ 4 = 9.
+69::What time is 2 hours after 3:30 PM?::4:30 PM::5:30 PM::6:30 PM::7:30 PM::B::Adding 2 hours to 3:30 PM gives 5:30 PM.
+70::How many minutes are in 3 hours?::120::150::180::210::C::3 × 60 = 180 minutes.
+71::What is 625 + 175?::700::750::800::850::C::625 + 175 = 800.
+72::What is 900 - 275?::615::625::635::645::B::900 - 275 = 625.
+73::What is 18 × 5?::80::85::90::95::C::18 × 5 = 90.
+74::What is 108 ÷ 6?::16::17::18::19::C::108 ÷ 6 = 18.
+75::Which number is divisible by 5?::23::36::45::62::C::Numbers ending in 0 or 5 are divisible by 5.
+76::Which number is odd?::14::28::36::51::D::51 is not divisible by 2.
+77::A triangle has how many vertices?::2::3::4::5::B::A triangle has 3 corners or vertices.
+78::A square has how many equal sides?::2::3::4::5::C::All 4 sides of a square are equal.
+79::What is the area of a square with side length 6 cm?::24 cm²::30 cm²::36 cm²::42 cm²::C::Area = 6 × 6 = 36 cm².
+80::What is the perimeter of a square with side length 9 cm?::18 cm::27 cm::36 cm::45 cm::C::Perimeter = 4 × 9 = 36 cm.
+81::Sarah has 24 stickers and gives 7 away. How many stickers does she have left?::15::16::17::18::C::24 - 7 = 17.
+82::Tom buys 4 packs of pencils with 6 pencils in each pack. How many pencils does he have?::20::22::24::26::C::4 × 6 = 24 pencils.
+83::A pizza is cut into 8 equal slices. If 3 slices are eaten, how many remain?::4::5::6::7::B::8 - 3 = 5 slices remain.
+84::A bus carries 32 students and 8 more students get on. How many students are on the bus?::38::39::40::41::C::32 + 8 = 40 students.
+85::Which fraction is equivalent to 2/4?::1/2::1/3::2/3::3/4::A::2/4 simplifies to 1/2.
+86::Which fraction is greater?::2/8::1/2::1/4::1/8::B::1/2 is the largest fraction listed.
+87::How many centimeters are in 2 meters?::20::100::200::2000::C::2 × 100 = 200 centimeters.
+88::How many months are in half a year?::4::5::6::7::C::Half of 12 months is 6 months.
+89::What is 17 + 28?::43::44::45::46::C::17 + 28 = 45.
+90::What is 85 - 47?::36::37::38::39::C::85 - 47 = 38.
+91::What is 15 × 8?::100::110::120::130::C::15 × 8 = 120.
+92::What is 72 ÷ 6?::10::11::12::13::C::72 ÷ 6 = 12.
+93::How many faces does a cube have?::4::5::6::8::C::A cube has 6 faces.
+94::Which angle is greater than 90° but less than 180°?::Acute angle::Right angle::Obtuse angle::Straight angle::C::An obtuse angle is between 90° and 180°.
+95::What is 5/10 in simplest form?::1/5::1/2::2/5::3/5::B::5/10 simplifies to 1/2.
+96::What is 1/3 of 21?::6::7::8::9::B::21 ÷ 3 = 7.
+97::Jenny read 12 pages each day for 5 days. How many pages did she read?::50::55::60::65::C::12 × 5 = 60 pages.
+98::A toy costs $9. How much do 4 toys cost?::$27::$32::$36::$40::C::4 × 9 = 36 dollars.
+99::There are 48 apples. If they are shared equally among 6 children, how many apples does each child get?::6::7::8::9::C::48 ÷ 6 = 8 apples each.
+100::A farmer has 35 chickens and buys 15 more. How many chickens does he have now?::40::45::50::55::C::35 + 15 = 50 chickens.

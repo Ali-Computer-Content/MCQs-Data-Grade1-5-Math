@@ -1,0 +1,100 @@
+1::How many apples are there if you have 3 apples and get 2 more?::4::5::6::7::b::3 + 2 = 5. Adding the apples together gives the total.
+2::What is 8 - 3?::4::5::6::7::b::8 - 3 = 5. Subtracting 3 from 8 leaves 5.
+3::Which number comes after 15?::14::15::16::17::c::The number after 15 is 16.
+4::What shape has 3 sides?::Circle::Square::Triangle::Rectangle::c::A triangle has exactly 3 sides.
+5::How many fingers on one hand?::3::4::5::6::c::A hand has 5 fingers.
+6::What is 4 + 5?::7::8::9::10::c::4 + 5 = 9.
+7::Which is greater: 12 or 8?::8::12::They are equal::Cannot tell::b::12 is greater than 8.
+8::What is 10 - 4?::5::6::7::8::b::10 - 4 = 6.
+9::How many sides does a square have?::3::4::5::6::b::A square has 4 sides.
+10::What number is between 20 and 22?::19::21::23::24::b::21 comes between 20 and 22.
+11::6 + 3 equals::7::8::9::10::c::6 + 3 = 9.
+12::What is 9 - 2?::5::6::7::8::c::9 - 2 = 7.
+13::Count the stars: ★ ★ ★ ★::2::3::4::5::c::There are 4 stars.
+14::Which shape is round?::Triangle::Circle::Square::Rectangle::b::A circle is round.
+15::What is 7 + 0?::0::6::7::8::c::Adding 0 to 7 gives 7.
+16::11 - 5 equals::4::5::6::7::c::11 - 5 = 6.
+17::What comes next: 5, 6, 7, __?::6::7::8::9::c::The next number is 8.
+18::How many legs does a dog have?::2::3::4::5::c::A dog has 4 legs.
+19::2 + 8 equals::9::10::11::12::b::2 + 8 = 10.
+20::What is 15 - 7?::6::7::8::9::c::15 - 7 = 8.
+21::Which number is smaller: 9 or 13?::13::9::They are equal::Cannot tell::b::9 is smaller than 13.
+22::What shape has 4 equal sides?::Triangle::Square::Circle::Rectangle::b::A square has 4 equal sides.
+23::4 + 6 equals::9::10::11::12::b::4 + 6 = 10.
+24::What is 12 - 3?::7::8::9::10::c::12 - 3 = 9.
+25::How many tens in 30?::1::2::3::4::c::30 has 3 tens.
+26::What is 5 + 5?::8::9::10::11::c::5 + 5 = 10.
+27::18 - 9 equals::7::8::9::10::c::18 - 9 = 9.
+28::Which is a rectangle?::Circle::Square::Triangle::Rectangle::d::A rectangle has 4 sides with opposite sides equal.
+29::What number comes before 50?::48::49::51::52::b::49 comes before 50.
+30::3 + 7 equals::9::10::11::12::b::3 + 7 = 10.
+31::What is 14 - 6?::6::7::8::9::c::14 - 6 = 8.
+32::Count the circles: ○ ○ ○::1::2::3::4::c::There are 3 circles.
+33::Which number is odd: 4, 6, 7, 8?::4::6::7::8::c::7 is an odd number.
+34::8 + 4 equals::10::11::12::13::c::8 + 4 = 12.
+35::What is 11 - 8?::2::3::4::5::b::11 - 8 = 3.
+36::How many corners does a triangle have?::2::3::4::5::b::A triangle has 3 corners.
+37::What is 9 + 2?::10::11::12::13::b::9 + 2 = 11.
+38::20 - 10 equals::8::9::10::11::c::20 - 10 = 10.
+39::What shape has no sides?::Square::Circle::Triangle::Rectangle::b::A circle has no straight sides.
+40::What comes next: 30, 40, 50, __?::60::70::80::90::a::The next is 60.
+41::5 + 9 equals::12::13::14::15::c::5 + 9 = 14.
+42::What is 16 - 7?::7::8::9::10::c::16 - 7 = 9.
+43::Which is heavier: a feather or a book?::Feather::Book::Same::Cannot tell::b::A book is heavier than a feather.
+44::7 + 6 equals::11::12::13::14::c::7 + 6 = 13.
+45::What is 13 - 5?::6::7::8::9::c::13 - 5 = 8.
+46::How many eyes do you have?::1::2::3::4::b::Humans have 2 eyes.
+47::What is 4 + 4?::6::7::8::9::c::4 + 4 = 8.
+48::19 - 9 equals::8::9::10::11::b::19 - 9 = 10.
+49::Which number is even: 3, 5, 7, 8?::3::5::7::8::d::8 is an even number.
+50::6 + 8 equals::12::13::14::15::c::6 + 8 = 14.
+51::What is 17 - 8?::7::8::9::10::c::17 - 8 = 9.
+52::What shape is like a ball?::Cube::Sphere::Cylinder::Pyramid::b::A sphere is like a ball.
+53::What is 10 + 5?::13::14::15::16::c::10 + 5 = 15.
+54::What is 12 - 9?::2::3::4::5::b::12 - 9 = 3.
+55::How many months in a year?::10::11::12::13::c::There are 12 months in a year.
+56::8 + 7 equals::13::14::15::16::c::8 + 7 = 15.
+57::What is 20 - 11?::7::8::9::10::c::20 - 11 = 9.
+58::Which number is the largest: 25, 32, 28?::25::28::32::All same::c::32 is the largest.
+59::What is 9 + 6?::13::14::15::16::c::9 + 6 = 15.
+60::What is 14 - 8?::4::5::6::7::c::14 - 8 = 6.
+61::What time does the clock show if both hands are on 12?::12 o'clock::1 o'clock::11 o'clock::10 o'clock::a::Both hands on 12 means 12 o'clock.
+62::3 + 9 equals::11::12::13::14::b::3 + 9 = 12.
+63::What is 18 - 6?::10::11::12::13::c::18 - 6 = 12.
+64::How many days in a week?::5::6::7::8::c::There are 7 days in a week.
+65::What is 7 + 7?::12::13::14::15::c::7 + 7 = 14.
+66::What is 15 - 9?::4::5::6::7::c::15 - 9 = 6.
+67::Which is longer: a pencil or a car?::Pencil::Car::Same::Cannot tell::b::A car is longer than a pencil.
+68::What is 11 + 4?::13::14::15::16::c::11 + 4 = 15.
+69::What is 13 - 7?::4::5::6::7::c::13 - 7 = 6.
+70::Count by tens: 10, 20, 30, __?::35::40::45::50::b::The next is 40.
+71::What is 8 + 5?::11::12::13::14::c::8 + 5 = 13.
+72::What is 16 - 8?::6::7::8::9::c::16 - 8 = 8.
+73::A square has how many corners?::2::3::4::5::c::A square has 4 corners.
+74::What is 6 + 9?::13::14::15::16::c::6 + 9 = 15.
+75::What is 17 - 5?::10::11::12::13::c::17 - 5 = 12.
+76::Which number is 1 more than 29?::28::29::30::31::c::30 is 1 more than 29.
+77::What is 10 + 10?::18::19::20::21::c::10 + 10 = 20.
+78::What is 19 - 10?::7::8::9::10::c::19 - 10 = 9.
+79::How many quarters make a dollar?::2::3::4::5::c::4 quarters make a dollar.
+80::What is 5 + 8?::11::12::13::14::c::5 + 8 = 13.
+81::What is 12 - 4?::6::7::8::9::c::12 - 4 = 8.
+82::Which shape has 0 corners?::Triangle::Circle::Square::Rectangle::b::A circle has 0 corners.
+83::What is 9 + 7?::14::15::16::17::c::9 + 7 = 16.
+84::What is 20 - 13?::5::6::7::8::c::20 - 13 = 7.
+85::What number is 10 less than 50?::30::35::40::45::c::40 is 10 less than 50.
+86::What is 4 + 9?::11::12::13::14::c::4 + 9 = 13.
+87::What is 11 - 6?::3::4::5::6::c::11 - 6 = 5.
+88::How many sides does a rectangle have?::3::4::5::6::b::A rectangle has 4 sides.
+89::What is 7 + 8?::13::14::15::16::c::7 + 8 = 15.
+90::What is 18 - 7?::9::10::11::12::c::18 - 7 = 11.
+91::Which is smaller: 45 or 38?::45::38::Same::Cannot tell::b::38 is smaller.
+92::What is 6 + 6?::10::11::12::13::c::6 + 6 = 12.
+93::What is 14 - 9?::3::4::5::6::c::14 - 9 = 5.
+94::A triangle has how many sides?::2::3::4::5::b::A triangle has 3 sides.
+95::What is 8 + 9?::15::16::17::18::c::8 + 9 = 17.
+96::What is 15 - 6?::7::8::9::10::c::15 - 6 = 9.
+97::What comes after 98?::97::98::99::100::c::99 comes after 98.
+98::What is 10 + 7?::15::16::17::18::c::10 + 7 = 17.
+99::What is 19 - 8?::9::10::11::12::c::19 - 8 = 11.
+100::How many toes on one foot?::3::4::5::6::c::There are 5 toes on one foot.

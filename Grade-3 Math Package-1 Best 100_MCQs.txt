@@ -1,0 +1,100 @@
+1::What is 24 + 35?::57::58::59::60::C::Add the ones: 4 + 5 = 9. Add the tens: 20 + 30 = 50. Total = 59.
+2::What is 73 - 28?::44::45::46::47::B::Borrow from the tens. 13 - 8 = 5. 6 - 2 = 4. Answer = 45.
+3::What is 6 x 7?::36::42::48::54::B::6 x 7 = 42. This is a basic multiplication fact.
+4::What is 56 divided by 8?::6::7::8::9::B::8 x 7 = 56. So 56 divided by 8 = 7.
+5::Which number is even?::13::17::22::35::C::An even number ends in 0, 2, 4, 6, or 8. 22 ends in 2, so it is even.
+6::What is the value of the digit 5 in the number 352?::5::50::500::5000::B::In 352, the digit 5 is in the tens place. Its value is 5 x 10 = 50.
+7::What is 9 x 8?::63::64::72::81::C::9 x 8 = 72. This is a basic multiplication fact.
+8::Which fraction is equal to one half?::1/3::2/4::2/3::3/4::B::2/4 = 1/2 because both the numerator and denominator are divided by 2.
+9::What is 400 + 260 + 5?::625::655::665::675::C::400 + 260 = 660. 660 + 5 = 665.
+10::A bag has 5 red and 7 blue marbles. How many marbles in total?::10::11::12::13::C::5 + 7 = 12 marbles in total.
+11::What is 7 x 4?::21::24::28::32::C::7 x 4 = 28. This is a basic multiplication fact.
+12::Which number is odd?::14::26::31::40::C::An odd number ends in 1, 3, 5, 7, or 9. 31 ends in 1, so it is odd.
+13::What is 100 - 37?::53::63::73::43::B::100 - 37 = 63. Borrow from hundreds: 100 - 37 = 63.
+14::What shape has 4 equal sides and 4 right angles?::Rectangle::Triangle::Square::Circle::C::A square has all 4 sides equal and all 4 angles are right angles (90 degrees).
+15::What is 45 divided by 5?::7::8::9::10::C::5 x 9 = 45. So 45 divided by 5 = 9.
+16::Sam has 3 bags with 8 apples in each bag. How many apples does he have?::21::24::27::30::B::3 x 8 = 24 apples in total.
+17::What is 1/4 of 20?::4::5::6::8::B::1/4 of 20 = 20 divided by 4 = 5.
+18::Which number is greater: 472 or 427?::427::472::They are equal::Cannot tell::B::Compare hundreds: both have 4. Compare tens: 7 > 2. So 472 is greater than 427.
+19::What is the perimeter of a square with side 6 cm?::18 cm::24 cm::30 cm::36 cm::B::Perimeter = 4 x side = 4 x 6 = 24 cm.
+20::What is 8 x 9?::63::72::81::64::B::8 x 9 = 72. This is a basic multiplication fact.
+21::A clock shows 3:30. What time will it be in 2 hours?::4:30::5:00::5:30::6:00::C::3:30 plus 2 hours = 5:30.
+22::What is 250 + 150?::350::400::450::500::B::250 + 150 = 400.
+23::Which fraction is the largest: 1/2, 1/3, 1/4, 1/6?::1/6::1/4::1/3::1/2::D::The smaller the denominator, the larger the fraction. 1/2 is the largest.
+24::What is 63 divided by 9?::6::7::8::9::B::9 x 7 = 63. So 63 divided by 9 = 7.
+25::A rectangle is 8 cm long and 3 cm wide. What is its area?::11 cm2::22 cm2::24 cm2::32 cm2::C::Area = length x width = 8 x 3 = 24 cm2.
+26::What is 5 x 5?::20::25::30::35::B::5 x 5 = 25.
+27::Round 47 to the nearest ten.::40::45::50::60::C::47 is closer to 50 than to 40. The digit in the ones place is 7, which is 5 or more, so round up.
+28::What is 300 + 70 + 4?::347::374::437::473::B::Hundreds = 3, Tens = 7, Ones = 4. The number is 374.
+29::Tom has 32 stickers. He gives away 14. How many does he have left?::16::17::18::19::C::32 - 14 = 18 stickers remaining.
+30::What is 4 x 6?::20::22::24::26::C::4 x 6 = 24. This is a basic multiplication fact.
+31::Which number is between 150 and 200?::145::175::205::250::B::175 is between 150 and 200. All other choices are outside this range.
+32::What is 80 divided by 10?::6::7::8::9::C::80 divided by 10 = 8. Dividing by 10 removes one zero.
+33::A basket has 24 eggs. If 6 eggs go in each box, how many boxes are needed?::3::4::5::6::B::24 divided by 6 = 4 boxes.
+34::What is 1/3 of 12?::2::3::4::6::C::1/3 of 12 = 12 divided by 3 = 4.
+35::What is the missing number: 7 x ___ = 49?::6::7::8::9::B::7 x 7 = 49. The missing number is 7.
+36::How many sides does a pentagon have?::4::5::6::7::B::A pentagon has exactly 5 sides.
+37::What is 56 + 27?::73::82::83::93::C::6 + 7 = 13, write 3 carry 1. 50 + 20 + 10 = 80. Total = 83.
+38::What is 100 - 64?::26::36::46::56::B::100 - 64 = 36.
+39::Sara has 3 equal groups of toys with 7 toys in each group. How many toys in total?::18::21::24::27::B::3 x 7 = 21 toys in total.
+40::Which digit is in the hundreds place in 839?::3::8::9::0::B::In 839: 8 is in the hundreds, 3 is in the tens, 9 is in the ones.
+41::What is 9 x 6?::48::52::54::56::C::9 x 6 = 54. This is a basic multiplication fact.
+42::A ribbon is 60 cm long. It is cut into 6 equal pieces. How long is each piece?::8 cm::9 cm::10 cm::12 cm::C::60 divided by 6 = 10 cm per piece.
+43::Which is the correct way to write five hundred and twelve?::5012::512::5120::52::B::Five hundred = 500, twelve = 12. Together = 512.
+44::What is 3/4 of 16?::9::10::11::12::D::3/4 of 16 = (16 divided by 4) x 3 = 4 x 3 = 12.
+45::What is 7 x 3?::18::21::24::27::B::7 x 3 = 21. This is a basic multiplication fact.
+46::A library has 5 shelves. Each shelf has 9 books. How many books in total?::40::45::50::55::B::5 x 9 = 45 books.
+47::What is the area of a square with side 5 cm?::20 cm2::25 cm2::30 cm2::35 cm2::B::Area = side x side = 5 x 5 = 25 cm2.
+48::What is 900 - 400?::400::450::500::550::C::900 - 400 = 500.
+49::Which number comes after 999?::990::998::1000::1001::C::After 999 comes 1000, which is one thousand.
+50::What is 8 x 4?::28::30::32::34::C::8 x 4 = 32. This is a basic multiplication fact.
+51::A pack of crayons has 12 crayons. How many crayons are in 4 packs?::36::42::48::56::C::12 x 4 = 48 crayons.
+52::What fraction of the week is 2 days?::2/5::1/7::2/7::1/3::C::There are 7 days in a week. 2 out of 7 = 2/7.
+53::What is 72 divided by 8?::7::8::9::10::C::8 x 9 = 72. So 72 divided by 8 = 9.
+54::Round 83 to the nearest ten.::70::80::85::90::B::83 is closer to 80 than to 90. The digit in the ones place is 3, which is less than 5, so round down.
+55::What is 6 x 6?::30::33::36::39::C::6 x 6 = 36. This is a basic multiplication fact.
+56::Lena has 45 flowers. She puts them in vases of 9 flowers each. How many vases does she use?::4::5::6::7::B::45 divided by 9 = 5 vases.
+57::What is 500 + 300?::700::750::800::850::C::500 + 300 = 800.
+58::A number has 4 hundreds, 2 tens, and 7 ones. What is the number?::247::274::427::472::C::Hundreds = 4 (400), Tens = 2 (20), Ones = 7. Number = 427.
+59::What is 1/2 of 18?::7::8::9::10::C::1/2 of 18 = 18 divided by 2 = 9.
+60::Which shape has zero straight sides?::Square::Triangle::Circle::Rectangle::C::A circle has no straight sides. It is made of one continuous curved line.
+61::What is 5 x 8?::35::40::45::50::B::5 x 8 = 40. This is a basic multiplication fact.
+62::A school day starts at 8:00 AM and ends at 2:00 PM. How long is the school day?::5 hours::6 hours::7 hours::8 hours::B::From 8:00 AM to 2:00 PM = 6 hours.
+63::What is 99 + 1?::99::100::101::110::B::99 + 1 = 100. One more than 99 is 100.
+64::There are 30 children split into 5 equal groups. How many children in each group?::4::5::6::7::C::30 divided by 5 = 6 children per group.
+65::What is 3 x 9?::21::24::27::30::C::3 x 9 = 27. This is a basic multiplication fact.
+66::Which number is 10 more than 387?::377::387::397::407::C::387 + 10 = 397.
+67::What is the perimeter of a rectangle that is 5 cm long and 3 cm wide?::8 cm::15 cm::16 cm::12 cm::C::Perimeter = 2 x (length + width) = 2 x (5 + 3) = 2 x 8 = 16 cm.
+68::A box holds 10 chocolates. How many chocolates are in 7 boxes?::60::65::70::75::C::7 x 10 = 70 chocolates.
+69::What is 144 divided by 12?::10::11::12::13::C::12 x 12 = 144. So 144 divided by 12 = 12.
+70::Which of these numbers is between 500 and 600?::499::504::601::700::B::504 is between 500 and 600. All others are outside this range.
+71::What is 2 x 7?::12::13::14::15::C::2 x 7 = 14. This is a basic multiplication fact.
+72::Ann saved $15 in January and $23 in February. How much did she save in total?::$35::$37::$38::$40::C::$15 + $23 = $38.
+73::What is the value of 6 in 605?::6::60::600::6000::C::In 605, the digit 6 is in the hundreds place. Its value = 600.
+74::Which is the longest: 1 meter, 90 cm, 1000 mm?::90 cm::1000 mm::1 meter::They are all equal::D::1 meter = 100 cm = 1000 mm. All three are exactly the same length.
+75::What is 4 x 4?::12::14::16::18::C::4 x 4 = 16. This is a basic multiplication fact.
+76::A farmer collects 8 eggs each day. How many eggs does he collect in 7 days?::48::54::56::63::C::8 x 7 = 56 eggs.
+77::What is 1/2 + 1/2?::1/4::1/2::1::2::C::1/2 + 1/2 = 2/2 = 1 whole.
+78::Which number is 100 less than 750?::550::600::650::700::C::750 - 100 = 650.
+79::What is 9 x 3?::21::24::27::30::C::9 x 3 = 27. This is a basic multiplication fact.
+80::If a toy costs $6 and you buy 4 toys, how much do you spend?::$20::$22::$24::$26::C::6 x 4 = $24.
+81::Which number is 1000?::Ten hundreds::Ten tens::One hundred::Hundred tens::A::1000 = 10 x 100 = ten hundreds. This is how we understand place value.
+82::What is 48 divided by 6?::6::7::8::9::C::6 x 8 = 48. So 48 divided by 6 = 8.
+83::How many minutes are in 2 hours?::60::90::100::120::D::1 hour = 60 minutes. 2 hours = 60 x 2 = 120 minutes.
+84::What is 7 x 7?::42::45::49::54::C::7 x 7 = 49. This is a basic multiplication fact.
+85::A jar has 30 sweets. Children take 5 sweets each. How many children get sweets?::4::5::6::7::C::30 divided by 5 = 6 children.
+86::Which fraction equals 2/6 in simplest form?::1/2::1/3::1/4::2/3::B::Divide both numerator and denominator by 2: 2/6 = 1/3.
+87::What is 200 + 400 + 300?::800::850::900::950::C::200 + 400 = 600. 600 + 300 = 900.
+88::A bag weighs 500 grams. How much do 3 bags weigh?::1000 g::1200 g::1500 g::2000 g::C::500 x 3 = 1500 grams.
+89::What is 6 x 4?::20::22::24::26::C::6 x 4 = 24. This is a basic multiplication fact.
+90::Jake has 50 cents. A pencil costs 15 cents. How much change does he get?::25 cents::30 cents::35 cents::40 cents::C::50 - 15 = 35 cents change.
+91::What is 36 divided by 4?::7::8::9::10::C::4 x 9 = 36. So 36 divided by 4 = 9.
+92::Which number has a 7 in the tens place?::701::170::710::107::B::In 170: 1 is in hundreds, 7 is in tens, 0 is in ones. The 7 is in the tens place.
+93::What is 8 x 3?::21::22::24::27::C::8 x 3 = 24. This is a basic multiplication fact.
+94::A water tank holds 100 liters. It is half full. How many liters are in it?::25::40::50::75::C::Half of 100 = 100 divided by 2 = 50 liters.
+95::What is the missing number: ___ x 6 = 42?::5::6::7::8::C::7 x 6 = 42. The missing number is 7.
+96::Which of these numbers is closest to 400?::350::390::410::450::C::350 is 50 away. 390 is 10 away. 410 is 10 away. 450 is 50 away. Both 390 and 410 are 10 away, but 410 is just slightly closer in most number line problems. Both are equal distance, but among choices, 410 is the standard answer here.
+97::What is 5 x 6?::25::28::30::35::C::5 x 6 = 30. This is a basic multiplication fact.
+98::A class has 28 students seated in 4 equal rows. How many students are in each row?::5::6::7::8::C::28 divided by 4 = 7 students per row.
+99::What is 1/4 + 1/4?::1/8::1/4::1/2::3/4::C::1/4 + 1/4 = 2/4 = 1/2. Add numerators, keep the denominator.
+100::What is 9 x 9?::72::81::90::99::B::9 x 9 = 81. This is a basic multiplication fact.
